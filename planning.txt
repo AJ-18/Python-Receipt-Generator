@@ -1,0 +1,7 @@
+Users can see a list of what is in stock
+Users can order an item
+Users get a receipt
+
+Classes:
+- Item
+- Receipt
